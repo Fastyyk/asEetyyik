@@ -1,0 +1,100 @@
+.head{
+  position: absolute;
+width: 100%;
+height: 74px;
+
+background: #601DB5;
+}
+.Logo{
+    position: relative;
+    width: 45px;
+    height: 38px;
+    position: absolute;
+    left: 2.22%;
+    right: 4.03%;
+    top:4%;
+    bottom: 0.99%;
+    border-radius: 10px;
+    background: #FFFFFF;    
+}
+.LOgoB{
+    position: absolute;
+left: 32.81%;
+right: 32.81%;
+top: 25%;
+bottom: 25%;
+}
+.Docs{
+    position: absolute;
+    width: 51px;
+    height: 24px;
+    margin-left: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+.Blog{
+    position: absolute;
+    width: 51px;
+    height: 24px;
+    margin-left: 290px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+.Exm{
+    position: absolute;
+width: 90px;
+height: 24px;
+margin-left: 150px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.Icons{
+    position: absolute;
+width: 51px;
+height: 24px;
+margin-left: 230px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.Git{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 1100px;
+top: 20px;
+}
+.Twit{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1170px;
+    top: 20px;   
+}
+.But1{
+    position: absolute;
+width: 157px;
+height: 34px;
+border: none;
+background: #DFE402;
+border-radius: 10px;
+}
